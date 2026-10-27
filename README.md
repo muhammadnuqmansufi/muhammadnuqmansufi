@@ -44,5 +44,4 @@ I'm a first-year Data Engineering student passionate about bridging the gap betw
 
 ### 📫 Connect with Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** [muhammadnuqmansufi@gmail.com](mailto:muhammadnuqmansufi@gmail.com)
